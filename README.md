@@ -1,7 +1,4 @@
 # LogiPy
-This package is a python wrapper for Logitech G's LED and Arx SDKs.
-LogiPy
-======
 
 This package is a python wrapper for `Logitech G's LED and Arx
 SDKs <http://gaming.logitech.com/en-us/developers>`__.
