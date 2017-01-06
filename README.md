@@ -15,10 +15,9 @@ Arx Control app.
 
 LED Examples
 ------------
+Make sure logipy folder and your .py code in the same Directory
 
 Set all device lighting to red:
-
-Make sure logi_led.py at ./logipy folder.
 
     from logipy import logi_led
     import time
