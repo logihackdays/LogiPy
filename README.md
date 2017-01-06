@@ -17,9 +17,9 @@ LED Examples
 ------------
 
 Set all device lighting to red:
+Make sure logi_led.py at ./logipy folder.
 
-
-    from logipy import logi_led #find logi_led at ./logipy folder
+    from logipy import logi_led
     import time
     import ctypes
 
