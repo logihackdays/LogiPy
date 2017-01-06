@@ -18,9 +18,8 @@ LED Examples
 
 Set all device lighting to red:
 
-::
 
-    from logipy import logi_led
+    from logipy import logi_led #find logi_led at ./logipy folder
     import time
     import ctypes
 
@@ -31,7 +30,6 @@ Set all device lighting to red:
 
 Or if you prefer the c/c++ style you can use the LED DLL directly:
 
-::
 
     from logipy import logi_led
     import time
@@ -47,7 +45,6 @@ Arx Examples
 
 Show a simple applet with the default callback:
 
-::
 
     from logipy import logi_arx
     import time
@@ -86,7 +83,6 @@ Show a simple applet with the default callback:
 
 Show a simple applet with a custom callback:
 
-::
 
     from logipy import logi_arx
     import time
